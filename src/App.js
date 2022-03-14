@@ -1,10 +1,12 @@
 import './App.css';
+import FormControl from './Components/formControl';
 import Navbar from './Components/Navbar';
 
 function App() {
   return (
     <div className="App">
       <Navbar/>
+      <FormControl/>
     </div>
   );
 }
