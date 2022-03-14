@@ -1,6 +1,6 @@
 import React from 'react'
 
-function formControl() {
+function FormControl() {
   return (
     <div className="App my-5">
       <form>
@@ -55,4 +55,4 @@ function formControl() {
   )
 }
 
-export default formControl
+export default FormControl

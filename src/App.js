@@ -1,10 +1,10 @@
 import './App.css';
-import formControl from "./Components/formControl.js";
+import FormControl from './Components/FormControl';
 
 function App() {
   return (
     <>
-    <formControl/>
+    <FormControl/>
     </>
   );
 }
