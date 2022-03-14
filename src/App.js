@@ -1,5 +1,5 @@
 import './App.css';
-import FormControl from './Components/formControl';
+import FormControl from './Components/FormControl';
 import Navbar from './Components/Navbar';
 
 function App() {
