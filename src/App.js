@@ -1,16 +1,19 @@
-import './App.css';
 import FormControl from './Components/FormControl';
-import Navbar from './Components/Navbar';
+import './App.css';
 import QuotesCard from './Components/QuotesCard';
+import Navbar from './Components/Navbar';
 
 function App() {
   return (
     <div className="App">
-      <Navbar/>
-      <FormControl/>
+      I am going to make a lot of changes here. Because i want conflicts
       <QuotesCard />
+      <FormControl/>
+      <Navbar/>
     </div>
   );
-}
+};
 
-export default App;
+
+
+export default App; console.log('Lot of changes made')
