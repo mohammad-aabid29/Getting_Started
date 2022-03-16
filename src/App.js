@@ -2,6 +2,7 @@ import FormControl from "./Components/FormControl";
 import "./App.css";
 import QuotesCard from "./Components/QuotesCard";
 import Navbar from "./Components/Navbar";
+import List from "./Components/List";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <QuotesCard />
       <FormControl />
       <Navbar />
+      <List/>
     </div>
   );
 }
