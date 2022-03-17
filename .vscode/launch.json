@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "https://learngitbranching.js.org/",
+            "request": "launch",
+            "url": "https://learngitbranching.js.org/"
+        }
+    ]
+}

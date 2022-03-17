@@ -8,9 +8,9 @@ function App() {
   return (
     <div className="App">
       I am going to make a lot of changes here. Because i want conflicts
+      <Navbar />
       <QuotesCard />
       <FormControl />
-      <Navbar />
       <List/>
     </div>
   );
